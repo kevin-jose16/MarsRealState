@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "13315453771",
+    "firebase_url": "https://marsrealstate-27c0d.firebaseio.com",
+    "project_id": "marsrealstate-27c0d",
+    "storage_bucket": "marsrealstate-27c0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13315453771:android:85eeca4af06e4fddf32ece",
+        "android_client_info": {
+          "package_name": "com.example.android.marsrealstate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13315453771-3dgcs7em0pk4hhafcbsfq6hoimrc9mg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUPrbWkFPvPp6xM9BehMynFnmcqbEFkCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13315453771-3dgcs7em0pk4hhafcbsfq6hoimrc9mg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
